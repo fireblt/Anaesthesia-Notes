@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anatomy/caudal-space/"}
+{"dg-publish":true,"permalink":"/anatomy/caudal-space/","created":"2025-06-21T22:34:20.833+10:00"}
 ---
 
 Caudal space is the most distal portion of the epidural space, within the sacral canal 

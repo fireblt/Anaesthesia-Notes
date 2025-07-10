@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anaesthesia-notes/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/anaesthesia-notes/","tags":["gardenEntry"],"created":"2025-07-10T13:12:26.271+10:00"}
 ---
 
 This collection of notes has been created as a revision guide for the FRCA and FANZCA
