@@ -3,7 +3,7 @@
 ---
 
 
-- [[Neuro/Trigeminal neuralgia surgery\|Trigeminal neuralgia surgery]]
 - [[Neuro/Neurosurgery Index\|Neurosurgery Index]]
+- [[Neuro/Trigeminal neuralgia surgery\|Trigeminal neuralgia surgery]]
 
 { .block-language-dataview}

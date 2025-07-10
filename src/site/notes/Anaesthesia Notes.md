@@ -9,8 +9,10 @@ You can therefore expect gaps in the notes, which correspond to areas I consider
 
 Good luck with all you do
 
-[[Anatomy/Anatomy Index\|Anatomy Index]]
-[[Major Trauma/Major Trauma Index\|Major Trauma Index]]
-[[MED VIVA/Med Viva Index\|Med Viva Index]]
+[[Anatomy Index\|Anatomy Index]]
+[[Major Trauma Index\|Major Trauma Index]]
+[[Med Viva Index\|Med Viva Index]]
 [[Neuro/Neurosurgery Index\|Neurosurgery Index]]
-[[Vascular/Vascular Index\|Vascular Index]]
+[[Vascular/Vascular Index\|Vascular/Vascular Index]]
+
+

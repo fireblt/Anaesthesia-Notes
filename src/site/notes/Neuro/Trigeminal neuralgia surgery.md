@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/neuro/trigeminal-neuralgia-surgery/","created":"2025-06-21T22:40:11.464+10:00"}
 ---
 
-See: [[Anatomy/Trigeminal Nerve\|Trigeminal Nerve]], [[MED VIVA/Trigeminal Neuralgia\|Trigeminal Neuralgia]]
+See: [[Trigeminal Nerve\|Trigeminal Nerve]], [[Trigeminal Neuralgia\|Trigeminal Neuralgia]]
 
 Lateral: axillary roll to support thorax, protect brachial plexus, pillow between knees to protect saphenous and common peroneal nerves 
 
