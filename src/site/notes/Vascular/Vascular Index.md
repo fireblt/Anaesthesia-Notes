@@ -3,4 +3,7 @@
 ---
 
 
-[[Vascular/Ruptured AAA\|Ruptured AAA]]
+- [[Vascular/Ruptured AAA\|Ruptured AAA]]
+- [[Vascular/Vascular Index\|Vascular Index]]
+
+{ .block-language-dataview}

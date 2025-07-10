@@ -3,4 +3,7 @@
 ---
 
 
-[[Major Trauma/Major Haemorrhage\|Major Haemorrhage]]
+- [[Major Trauma/Major Haemorrhage\|Major Haemorrhage]]
+- [[Major Trauma/Major Trauma Index\|Major Trauma Index]]
+
+{ .block-language-dataview}

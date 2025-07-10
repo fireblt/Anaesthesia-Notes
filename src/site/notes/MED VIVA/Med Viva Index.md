@@ -3,4 +3,8 @@
 ---
 
 
-[[MED VIVA/Trigeminal Neuralgia\|Trigeminal Neuralgia]]]
+- [[MED VIVA/Chronic diseases\|Chronic diseases]]
+- [[MED VIVA/Trigeminal Neuralgia\|Trigeminal Neuralgia]]
+- [[MED VIVA/Med Viva Index\|Med Viva Index]]
+
+{ .block-language-dataview}
